@@ -15,4 +15,25 @@ Setelah saya menyimpan file, dan memasukan code HTML & javascript maka akan kelu
 
 ![pengenalan javascript](screenshoot/pengenalan.JPG)
 
+**Javascript Alert**
+
+Point yang pertama saya memasukan code Javascript Alert maka akan menampilkan outpot seperti berikut
+
+![javascript alert](screenshoot/alert_window.JPG)
+
+**Javascript Method**
+Point yang kedua saya memasukan code Javascript Methode maka akan menampilkan outpot seperti berikut
+
+![Javascript Method](screenshoot/Method.JPG)
+
+**Promp**
+
+Pada point promt, setelah saya masukan code maka akan menampilkan Alert untuk user memasukan nama
+
+![Promt](screenshoot/promt.JPG)
+
+Setelah saya mencoba memasukan nama saya **Farhan Alfarizi** pada kolom prompt tersebut maka halam akan otomatis menampilkan seperti dibawah ini 
+
+![Promt nama](screenshoot/promt_nama.JPG)
+
 
